@@ -1,0 +1,7 @@
+{
+  "name": "Calvoro",
+  "description": "A calm, voice-first intelligent appointment assistant that captures events, syncs calendars, and delivers human-like reminders.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
